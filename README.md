@@ -9,4 +9,4 @@ Java dilini öğrenirken sadece video izlemiyorum öğrendiğim bilgileri kod ya
 
 Java dilindeki gelişimimi takip etmek için kodlara bakabilirsin.
   
--
+
