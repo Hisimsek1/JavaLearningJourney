@@ -8,7 +8,7 @@ Instead of only watching videos, I actively practice what I learn by writing cod
 
 This repository serves as a record of my development in Java, allowing you to track my progress over time through the code.
 
----
+--- 
 
 ## Konular
 
