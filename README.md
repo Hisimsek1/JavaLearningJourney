@@ -33,3 +33,4 @@ This repository serves as a record of my development in Java, allowing you to tr
 | 17-Dosya İslemleri | Dosya okuma/yazma, JDBC veritabanı bağlantısı |
 | 18-GUI | Java Swing ile grafiksel arayüz geliştirme |
 | 19-Basic Projects | Fighting Arena oyunu - Adam Asmaca|
+| 20-Java Pratikleri |
